@@ -54,7 +54,7 @@ Try out the Live Preview above, and then let's walk through the example and desc
 
 <img class="pull-right" style="padding-left: 3em; padding-bottom: 1em;" src="img/guide/concepts-databinding1.png">
 
-This looks like normal HTML, with some new markup. In Angular, a file like this is called a
+Thisหหห looks like normal HTML, with some new markup. In Angular, a file like this is called a
 <a name="template">"{@link templates template}"</a>. When Angular starts your application, it parses and
 processes this new markup from the template using the so-called <a name="compiler">"{@link compiler compiler}"</a>.
 The loaded, transformed and rendered DOM is then called the <a name="view">"view"</a>.
